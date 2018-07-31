@@ -1,0 +1,38 @@
+.containerdeprestation {
+  /* display: flex;
+  justify-content: center; */
+
+}
+.prestation {
+  background-color: #87CEFA;
+  opacity: 0.6;
+  height: auto;
+  width: auto;
+     margin: 1.5em;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    padding-bottom: 2em;
+  box-shadow: 1px 1px 12px #555;
+
+}
+
+
+.center {
+   text-align: center;
+   padding-left: 1.5em;
+}
+.icons {
+  /* text-align: center; */
+  background: #FFF0F5;
+  padding-bottom: 0.6em;
+  height: 2em;
+}
+
+.mini-title {
+  /* text-align: center; */
+  padding-top: 1em;
+}
+
+.little-para {
+  /* margin-top: 2em; */
+}

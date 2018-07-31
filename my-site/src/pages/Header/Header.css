@@ -1,0 +1,23 @@
+.title {
+  color: #b37399;
+
+}
+
+
+.double-border {
+  border-top: thick double #87CEFA;
+
+}
+
+.title {
+  text-align: center;
+  /* color: #cccfd4; */
+  color:black;
+  padding-top:2em;
+  font-family: 'Lobster', cursive;
+  opacity:1;
+}
+
+.nav-link {
+  text-align: center;
+}

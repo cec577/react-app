@@ -1,0 +1,41 @@
+ nav li {
+ list-style-type: none;
+}
+
+.sub-menu {
+ display: none;
+}
+
+.cursor {
+ cursor: pointer;
+ margin-left: 2.3em;
+ padding-top: 1em;
+
+}
+ li {
+   text-align: left;
+ }
+i {
+padding-right: 1.3em;
+}
+
+.category {
+ padding-top: 1em;
+}
+
+/* .essai-bordure {
+  border: 0.03em solid #808080;
+  margin-bottom: 0.7em;
+  margin: 5px;
+  margin-left: 40px;
+  margin-right: 80px;
+} */
+
+.e {
+  margin: 0;
+  margin-bottom: 2em;
+}
+
+.p {
+  margin:0;
+}

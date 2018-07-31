@@ -1,0 +1,45 @@
+
+
+.titre {
+  text-align: center;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  font-family: 'Lobster', cursive;
+  font-size: 2.5em;
+}
+
+.img {
+  background-image: url(../images/bureau1.jpg) ;
+  height: 300px;
+  width: 300px;
+  background-size: cover;
+  box-shadow: 1px 1px 12px #555;
+  margin: auto;
+
+
+}
+
+.img2{
+  background-image: url(../images/bureau2.jpg) ;
+  height: 300px;
+  width: 300px;
+  background-size: cover;
+  box-shadow: 1px 1px 12px #555;
+  margin: auto;
+
+
+}
+
+.img3{
+  background-image: url(../images/bureau3.jpg) ;
+  height: 300px;
+  width: 300px;
+  background-size: cover;
+  box-shadow: 1px 1px 12px #555;
+  margin: auto;
+
+}
+
+.espace {
+  margin-bottom: 1em;
+}

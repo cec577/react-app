@@ -1,0 +1,58 @@
+   .fond1 {
+   padding: 3em;
+   padding-left: 3em;
+   padding-right:3em;
+ }
+  /* background-color: #ced4da; */
+  /* padding-top: 2em; */
+  /* padding-bottom: 7em; */
+
+    .profil {
+  background-color: #808080;
+   height: auto;
+  width: auto;
+   padding: 3em;
+   opacity: 0.6;
+  box-shadow: 1px 1px 12px #555;
+  border-radius: 0.3em;
+
+}
+
+.title-quisuisje {
+  /* text-align: center; */
+  /* padding-top: 0.5em;
+  padding-bottom: 0.2em; */
+  font-family: 'Lobster', cursive;
+   font-size: 3em;
+  opacity: 0.8;
+  color: white;
+
+}
+
+
+.titrepro {
+  /* text-align: center; */
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+  /* padding-bottom: 0.3em;
+  width: 100% */
+
+}
+
+.bordure {
+  border: 0.1em solid #87CEFA;
+  margin-top: 3em;
+  border-radius: 1em;
+  opacity: 0.4;
+  margin-left: 5em;
+  margin-right: 5em;
+}
+
+.symbole {
+  background-image: url(../images/symbole1.png) ;
+  background-size: cover;
+ height: 100px;
+width: 120px;
+margin: auto;
+
+}

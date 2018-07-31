@@ -1,0 +1,15 @@
+.footer {
+  background-color: #212529;
+  width: auto;
+  height: auto;
+}
+
+.info-footer {
+  color: white;
+  /* margin-left: 6em; */
+}
+
+.info {
+  margin-top: 2em;
+  
+}

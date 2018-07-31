@@ -1,0 +1,17 @@
+.place-formulaire {
+   /* background: #DDA0DD; */
+  border: solid #87CEFA;
+  border-radius: 1em;
+  /* width: 30em;
+  height: 35em;
+  padding: 5em;*/
+  opacity:0.6;
+  margin-bottom: 5em;
+  margin: 2em;
+  padding-top: 2em;
+  padding: 1em;
+}
+
+.title-formulaire {
+  text-align: center;
+}

@@ -1,0 +1,30 @@
+.partie-vide {
+  background: #87CEFA;
+   height: auto;
+  width: auto;
+  margin: 2em;
+}
+
+.titre-formu-bas {
+  text-align: center;
+  padding-top: 0.5em;
+}
+
+.horaires {
+  text-align: center;
+  padding-top: 1.5em;
+}
+
+.bordureSchedule {
+   border-bottom: 1px solid white;
+   margin-left: 2em;
+   margin-right: 2em;
+}
+
+.contact {
+  text-align: center;
+  padding-top: 1.3em;
+  font-size: 1.6em;
+  color:#FFF0F5;
+  font-weight: bold;
+}

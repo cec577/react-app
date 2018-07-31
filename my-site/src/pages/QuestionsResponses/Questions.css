@@ -1,0 +1,49 @@
+.fond-ecran {
+  background-color: #808080;
+  height: auto;
+  width: auto;
+  margin: auto;
+  margin-top: 1em;
+  box-shadow: 1px 1px 12px #555;
+
+}
+
+.fond-ecran2 {
+  border: 0.03em solid #808080;
+  height: auto;
+  width: auto;
+  margin: 1em;
+  margin-top: 1em;
+  box-shadow: 1px 1px 12px #555;
+
+
+}
+.questions {
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-family: 'Lobster', cursive;
+  font-size: 2.5em;
+  color:white;
+
+}
+
+.questions2 {
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-family: 'Lobster', cursive;
+  font-size: 2.5em;
+  color: black;
+
+}
+
+.reponses {
+text-align: center;
+color:white;
+
+}
+.reponses2 {
+  text-align: center;
+  color: black;
+}

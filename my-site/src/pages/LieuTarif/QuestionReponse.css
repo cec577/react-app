@@ -1,0 +1,52 @@
+.fond {
+  background-color: #808080;
+  height: auto;
+  width: auto;
+  margin: auto;
+  margin-top: 1em;
+  box-shadow: 1px 1px 12px #555;
+  color: white;
+  margin-bottom: 2em;
+
+}
+
+.fond2 {
+  border: 0.03em solid #808080;
+  height: auto;
+  width: auto;
+  margin: auto;
+  margin-top: 1em;
+  box-shadow: 1px 1px 12px #555;
+
+}
+.titre {
+  text-align: center;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  font-family: 'Lobster', cursive;
+  font-size: 2.5em;
+}
+
+.entretiens {
+  margin-left: auto;
+  font-family: 'Lobster', cursive;
+  font-size: 2em;
+
+
+
+}
+
+.reponse {
+  margin-left: auto;
+  font-family: 'Lobster', cursive;
+  color: #808080;
+
+}
+
+.entretien {
+  margin-left: auto;
+}
+
+ul li {
+  list-style-type: none;
+}
